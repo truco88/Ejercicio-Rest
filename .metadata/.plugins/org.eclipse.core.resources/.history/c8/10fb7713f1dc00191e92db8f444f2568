@@ -1,0 +1,8 @@
+package com.javarevolutions.ws.rest.vo;
+
+public class VOUsuario {
+	private String usuario;
+	private String password;
+	pricate boolean userValido;
+
+}
